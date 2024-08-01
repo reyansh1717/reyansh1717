@@ -64,7 +64,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9sd2JxdHkydzdjaDYzMjFnO
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyansh1717&" alt="reyansh1717" /></p>
 
 <h2>🏆 Trophies Achieved </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=krsakshi&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=reyansh1717&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 
 <div style="text-align: center;">
   <a href="https://visitcount.itsvg.in">
