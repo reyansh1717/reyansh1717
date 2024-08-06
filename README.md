@@ -17,7 +17,6 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9sd2JxdHkydzdjaDYzMjFnO
 - <i>Databases:</i> MySQL<br>
 - <i>Web Technologies:</i> HTML, CSS<br>
 - <i>Version Control System:</i> Git<br>
-
 <br>
 <br>
 <p align="left"> 
