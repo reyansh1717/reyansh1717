@@ -6,7 +6,7 @@
 
 <h3 align="center">Pursuing Computer Science & Engineering (Final Year)</h3>
 <h4 align="center">At</h4>
-<h3 align="center">Kalinga Institute of Industrial Technology, Bhubaneswar</h3>
+<h3 align="center">Kalinga Institute of Industrial Technology, Bhubaneswar - DU</h3>
 
 <div align="center">
   <img alt="Coding" height="300" width="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9sd2JxdHkydzdjaDYzMjFnOHRsdmVrYWoxNXBqMnZkM2JlanpnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding">
@@ -19,8 +19,8 @@
     <li>🌱 I’m currently focusing on Human Resource Management.</li>
     <li>💻 Currently working on : It's secret! 🤫</li>
     <li>💬 Ask me about programming.</li>
-    <li>📬 Reach me : via <a href="https://www.linkedin.com/in/reyansh17/">LinkedIn</a>.</li>
-    <li>⚡ Quote: “Education is a path to enlightenment, not just a credential.”</li>
+    <li>📬 Reach me : via <a href="https://www.linkedin.com/in/reyansh17/">LinkedIn</a> || <a href="https://reyansh17.vercel.app/">Website</a> || <a href="https://x.com/reyansh_17">Twitter (X)</a>
+    <li>⚡ Quote : “Education is a path to enlightenment, not just a credential.”</li>
 </ul>
 
 <h3>Languages and Tools :</h3>
