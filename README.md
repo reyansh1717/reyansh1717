@@ -6,17 +6,17 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9sd2JxdHkydzdjaDYzMjFnO
 </div>
 <h2>About me </h2>
     🌱 I’m currently learning Human Resource Management.
-    <br>💻 Currently working on: It's secret! 😯
+    <br>💻 Currently working on : It's secret! 😯
     <br>💬 Ask me about programming
-    <br>📬 Reach me: via Linkedin
-    <br>⚡ Quote: “Education is a Path to Enlightenment, Not Just a Credential.”
+    <br>📬 Reach me : via Linkedin
+    <br>⚡ Quote : “Education is a Path to Enlightenment, Not Just a Credential.”
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
-- <i>Languages:   </i>C, C++, Java, Python, JavaScript, PHP<br>
-- <i>Frameworks:  </i> React Js <br>
-- <i>Databases:</i> MySQL<br>
-- <i>Web Technologies:</i> HTML, CSS<br>
-- <i>Version Control System:</i> Git<br>
+- <i>Languages : </i>C, C++, Java, JavaScript, Python, PHP<br>
+- <i>Frameworks : </i> React Js <br>
+- <i>Databases : </i> MySQL<br>
+- <i>Web Technologies : </i> HTML, CSS<br>
+- <i>Tools : </i> VS Code, AWS, Git, Linux<br>
 <br>
 <br>
 <p align="left"> 
@@ -52,7 +52,10 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9sd2JxdHkydzdjaDYzMjFnO
     </a> 
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-    </a> 
+    </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  </a>
 </p>
 <br>
 <br>
