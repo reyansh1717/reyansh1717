@@ -97,3 +97,4 @@
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=647&height=60&lines=Thank+You+for+visiting+!;Hope+to+see+you+again+%F0%9F%98%81;Dont+forget+to+follow!" alt="Typing SVG" />
   </a>
 </h3>
+<h5 align="center">Thank you for taking the time to learn more about me. I invite you to explore my website further to discover more about my projects, writings, and the journey that continues to shape who I am today.</h5>
