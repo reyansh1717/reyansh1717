@@ -9,7 +9,7 @@
 <h3 align="center">Kalinga Institute of Industrial Technology, Bhubaneswar - DU</h3>
 
 <div align="center">
-  <img alt="Coding" height="300" width="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9sd2JxdHkydzdjaDYzMjFnOHRsdmVrYWoxNXBqMnZkM2JlanpnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding">
+  <img alt="Coding" height="250" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9sd2JxdHkydzdjaDYzMjFnOHRsdmVrYWoxNXBqMnZkM2JlanpnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding">
   <h5 align="center">Enthusiastic and active student of institution with high working potential. I strongly believe in making things possible with my knowledge, skills, and experiences. Have potential of leading the group of people even in challenging situations and bring the new innovations into force positively.</h5>
 </div>
 </div>
