@@ -16,10 +16,15 @@
 
 <h3 align="left">🌐 Socials :</h3>
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/reyansh17/" target="blank">
+  <a href="https://www.linkedin.com/in/reyansh17/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="border-radius: 8px;" />
   </a> 
+  <a href="https://reyansh17.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="border-radius: 8px;" />
+  </a>
 </p>
+
+
 <h3 align="left">About Me!</h3>
 
 <ul>
