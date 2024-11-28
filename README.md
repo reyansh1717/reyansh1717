@@ -28,12 +28,12 @@
 <h3 align="left">About Me!</h3>
 
 <ul>
-  <li>🔭 I am currently working on <strong>the latest technologies</strong>.</li>
+  <li>🔭 I am currently working as <strong>Recruiter</strong>.</li>
   <li>🌱 I am currently learning <strong>Human Resource Management</strong>.</li>
-  <li>👨‍💻 My projects are available on my <a href="https://reyansh17.vercel.app/" target="_blank">portfolio</a>.</li>
-  <li>💬 Feel free to ask me about <strong>recruitment, management, and programming</strong>.</li>
+  <li>👨‍💻 My projects are available on my <a href="https://reyansh17.vercel.app/" target="_blank">Portfolio</a>.</li>
+  <li>💬 Feel free to ask me about <strong>Recruitment, Management, & Programming</strong>.</li>
   <li>📫 You can reach me via email at <strong><a href="mailto:reyansh170@gmail.com">reyansh170@gmail.com</a></strong>.</li>
-  <li>📄 Learn more about my experiences in my <strong><a href="https://drive.google.com/file/d/1EhLcMawBHmBrPzjolYwFlwQ5jZd8DsyG/view?usp=drive_link">resume</a></strong>.</li>
+  <li>📄 Learn more about my experiences through my <strong><a href="https://drive.google.com/file/d/1EhLcMawBHmBrPzjolYwFlwQ5jZd8DsyG/view?usp=drive_link">Resume</a></strong>.</li>
   <li>⚡ My guiding principle : <strong>“Education is a path to enlightenment, not just a credential.”</strong></li>
 </ul>
 
