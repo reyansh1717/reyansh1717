@@ -62,10 +62,10 @@
 </a>
 <h3 align="left">Skills :</h3>
 <ul>
-    <li><i>Employee Recruitment/Retention Strategies</i></li>
-    <li><i>Written and Verbal Communication, Team management</i></li>
-    <li><i>Relationship Building and Presentation, Organizational Skills</i></li>
-    <li><i>Microsoft Office and Google Suite</i></li>
+    <li><i>HR Skills : Recruitment, Hiring, Onboarding, Screening, Interview Scheduling & Retention Strategies</i></li>
+    <li><i>Soft Skills : International Calling, Written & Verbal Communication, Leadership & Team management, Relationship Building, Negotiation, Presentation & Organizational Skills</i></li>
+    <li><i>Technical Skills : Microsoft Office, Excel, Google Suite, C, C++, Html, CSS, JavaScript, Python, SQL, DSA</i></li>
+    <li><i>Tools and Technologies : VS Code, AWS, IoT, AI/ML, Git/Github</i></li>
 </ul>
 
 <h3 align="left">Languages and Tools :</h3>
