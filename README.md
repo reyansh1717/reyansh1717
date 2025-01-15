@@ -33,7 +33,7 @@
   <li>👨‍💻 My projects are available on my <a href="https://reyansh17.vercel.app/" target="_blank">Portfolio</a>.</li>
   <li>💬 Feel free to ask me about <strong>Recruitment, Management, & Programming</strong>.</li>
   <li>📫 You can reach me via email at <strong><a href="mailto:reyansh170@gmail.com">reyansh170@gmail.com</a></strong>.</li>
-  <li>📄 Learn more about my experiences through my <strong><a href="https://drive.google.com/file/d/1yef5mMahrCRMSIYt_Y0Mnce48-vTKSOt/view?usp=sharing">Resume</a></strong>.</li>
+  <li>📄 Learn more about my experiences through my <strong><a href="https://drive.google.com/file/d/15GPO1sUzv1JAcMCGKcbj5IALlsEpSha5/view?usp=sharing">Resume</a></strong>.</li>
   <li>⚡ My guiding principle : <strong>“Education is a path to enlightenment, not just a credential.”</strong></li>
 </ul>
 
