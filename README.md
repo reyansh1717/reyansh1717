@@ -3,12 +3,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=647&lines=Hello+Everyone+%F0%9F%91%8B;I+'m+Reyansh+%F0%9F%98%81" alt="Typing SVG" />
   </a>
 </h3>
-<h3 align="center">Pursuing Computer Science & Engineering (Final Year)</h3>
+<h3 align="center">Business Developer</h3>
 <h4 align="center">At</h4>
-<h3 align="center">Kalinga Institute of Industrial Technology - DU, Bhubaneswar, Odisha</h3>
+<h3 align="center">Movidu Technology Pvt Ltd. Noida, UP, India</h3>
 <div align="center">
 <img alt="Coding" height="350" width="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9sd2JxdHkydzdjaDYzMjFnOHRsdmVrYWoxNXBqMnZkM2JlanpnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding">
-  <h5 align="center">Enthusiastic and active student of institution with high working potential. I strongly believe in making things possible with my knowledge, skills, and experiences. Have potential of leading the group of people even in challenging situations and bring the new innovations into force positively.</h5>
+  <h5 align="center">Enthusiastic and active professional of an organization with high working potential. I strongly believe in making things possible with my knowledge, skills, and experiences. Have potential of leading the group of people even in challenging situations and bring the new innovations into force positively.</h5>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -28,12 +28,12 @@
 <h3 align="left">About Me!</h3>
 
 <ul>
-  <li>🔭 I am currently working as <strong>Recruiter</strong>.</li>
-  <li>🌱 I am currently learning <strong>Human Resource Management</strong>.</li>
+  <li>🔭 I am currently working as <strong>Business Developer</strong>.</li>
+  <li>🌱 I am currently learning <strong>Business & Human Resource</strong>.</li>
   <li>👨‍💻 My projects are available on my <a href="https://reyansh17.vercel.app/" target="_blank">Portfolio</a>.</li>
-  <li>💬 Feel free to ask me about <strong>Recruitment, Management, & Programming</strong>.</li>
+  <li>💬 Feel free to ask me about <strong>Business, Recruitment, Management, & Programming</strong>.</li>
   <li>📫 You can reach me via email at <strong><a href="mailto:reyansh170@gmail.com">reyansh170@gmail.com</a></strong>.</li>
-  <li>📄 Learn more about my experiences through my <strong><a href="https://drive.google.com/file/d/15GPO1sUzv1JAcMCGKcbj5IALlsEpSha5/view?usp=sharing">Resume</a></strong>.</li>
+  <li>📄 Learn more about my experiences through my <strong><a href="https://drive.google.com/file/d/1TXH_zM_8yflzntOYnZykTY4aZukN0LYy/view?usp=drive_link">Resume</a></strong>.</li>
   <li>⚡ My guiding principle : <strong>“Education is a path to enlightenment, not just a credential.”</strong></li>
 </ul>
 
@@ -62,10 +62,11 @@
 </a>
 <h3 align="left">Skills :</h3>
 <ul>
-    <li><i>HR Skills : Recruitment, Hiring, Onboarding, Screening, Interview Scheduling & Retention Strategies</i></li>
-    <li><i>Soft Skills : International Calling, Written & Verbal Communication, Leadership & Team management, Relationship Building, Negotiation, Presentation & Organizational Skills</i></li>
     <li><i>Technical Skills : Microsoft Office, Excel, Google Suite, C, C++, Html, CSS, JavaScript, Python, SQL, DSA</i></li>
     <li><i>Tools and Technologies : VS Code, AWS, IoT, AI/ML, Git/Github</i></li>
+    <li><i>HR Skills : Recruitment, Hiring, Onboarding, Screening, Interview Scheduling & Retention Strategies</i></li>
+    <li><i>Soft Skills : International Calling, Written & Verbal Communication, Leadership & Team management, Relationship Building, Negotiation, Presentation & Organizational Skills</i></li>
+    
 </ul>
 
 <h3 align="left">Languages and Tools :</h3>
