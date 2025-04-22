@@ -28,8 +28,8 @@
 <h3 align="left">About Me!</h3>
 
 <ul>
-  <li>🔭 I am currently working as <strong>Business Developer</strong>.</li>
-  <li>🌱 I am currently learning <strong>Business & Human Resource</strong>.</li>
+  <li>🔭 I am currently working as <strong>Student</strong>.</li>
+  <li>🌱 I am currently learning <strong>Human Resource</strong>.</li>
   <li>👨‍💻 My projects are available on my <a href="https://reyansh17.vercel.app/" target="_blank">Portfolio</a>.</li>
   <li>💬 Feel free to ask me about <strong>Business, Recruitment, Management, & Programming</strong>.</li>
   <li>📫 You can reach me via email at <strong><a href="mailto:reyansh170@gmail.com">reyansh170@gmail.com</a></strong>.</li>
