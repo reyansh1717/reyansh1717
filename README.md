@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=647&lines=Hello+Everyone+%F0%9F%91%8B;I+'m+Reyansh+%F0%9F%98%81" alt="Typing SVG" />
   </a>
 </h3>
-<h3 align="center">Business Developer</h3>
+<h3 align="center">Final Year B.Tech Student (CSE)</h3>
 <h4 align="center">At</h4>
-<h3 align="center">Movidu Technology Pvt Ltd. Noida, UP, India</h3>
+<h3 align="center">KIIT University, Bhubaneswar, Odisha</h3>
 <div align="center">
 <img alt="Coding" height="350" width="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9sd2JxdHkydzdjaDYzMjFnOHRsdmVrYWoxNXBqMnZkM2JlanpnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding">
   <h5 align="center">Enthusiastic and active professional of an organization with high working potential. I strongly believe in making things possible with my knowledge, skills, and experiences. Have potential of leading the group of people even in challenging situations and bring the new innovations into force positively.</h5>
