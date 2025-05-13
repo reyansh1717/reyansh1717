@@ -33,7 +33,7 @@
   <li>👨‍💻 My projects are available on my <a href="https://reyansh17.vercel.app/" target="_blank">Portfolio</a>.</li>
   <li>💬 Feel free to ask me about <strong>Business, Recruitment, Management, & Programming</strong>.</li>
   <li>📫 You can reach me via email at <strong><a href="mailto:reyansh170@gmail.com">reyansh170@gmail.com</a></strong>.</li>
-  <li>📄 Learn more about my experiences through my <strong><a href="https://drive.google.com/file/d/1TXH_zM_8yflzntOYnZykTY4aZukN0LYy/view?usp=drive_link">Resume</a></strong>.</li>
+  <li>📄 Learn more about my experiences through my <strong><a href="https://drive.google.com/file/d/16nIjn7G739kgJ2dbT94LOm0-LQVu0N-i/view?usp=drive_link">Resume</a></strong>.</li>
   <li>⚡ My guiding principle : <strong>“Education is a path to enlightenment, not just a credential.”</strong></li>
 </ul>
 
@@ -62,10 +62,10 @@
 </a>
 <h3 align="left">Skills :</h3>
 <ul>
-    <li><i>Technical Skills : Microsoft Office, Excel, Google Suite, C, C++, Html, CSS, JavaScript, Python, SQL, DSA</i></li>
-    <li><i>Tools and Technologies : VS Code, AWS, IoT, AI/ML, Git/Github</i></li>
+    <li><i>Technical Skills : C, C++, Html, CSS, JavaScript, Python, SQL, DSA, Microsoft Office, Excel, Google Suite</i></li>
+    <li><i>Tools and Technologies : VS Code, AWS, IoT, AI/ML, Git/Github, ClickUp</i></li>
     <li><i>HR Skills : Recruitment, Hiring, Onboarding, Screening, Interview Scheduling & Retention Strategies</i></li>
-    <li><i>Soft Skills : International Calling, Written & Verbal Communication, Leadership & Team management, Relationship Building, Negotiation, Presentation & Organizational Skills</i></li>
+    <li><i>Soft Skills : International Calling, Written & Verbal Communication, Leadership & Team management, Relationship Building, Applicant tracking systems, Negotiation, Presentation & Organizational Skills</i></li>
     
 </ul>
 
@@ -118,7 +118,7 @@
 
 ## :chart_with_upwards_trend: Current Strike
 <br />
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyansh1717&" alt="reyansh1717" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reyansh1717" alt="reyansh1717" /></p>
 
 <h2>📈 Contribution Graph</h2>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=reyansh1717&bg_color=000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true" alt="Reyansh Contribution Graph" width="800"></p>
@@ -129,9 +129,10 @@
 </a> </p>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=reyansh1717&icon=0&color=9" alt="Visit Count" />
-  </a>
+  <a href="https://github.com/reyansh1717">
+  <img src="https://komarev.com/ghpvc/?username=reyansh1717&" alt="Profile views" />
+</a>
+
 </div>
 
 <h3 align="center">
