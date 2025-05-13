@@ -105,9 +105,6 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a>
 </p>
 
 <p style="margin-bottom:150px" align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reyansh1717&show_icons=true&locale=en&layout=compact" alt="reyansh1717" /></p>
